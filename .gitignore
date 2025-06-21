@@ -1,0 +1,18 @@
+# Ignore everything (files and folders)
+*
+
+# Keep all folders
+!*/
+
+# Keep all files that have a dot (files with extension)
+!*.*
+
+# Ignore all .exe files
+*.exe
+
+# Keep other files
+!
+
+# Ignore other files
+.DS_Store
+.vscode/
